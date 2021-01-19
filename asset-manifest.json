@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/Movie-poster-React/static/css/main.86605e67.chunk.css",
+    "main.js": "/Movie-poster-React/static/js/main.a79f5a85.chunk.js",
+    "main.js.map": "/Movie-poster-React/static/js/main.a79f5a85.chunk.js.map",
+    "runtime-main.js": "/Movie-poster-React/static/js/runtime-main.a396c703.js",
+    "runtime-main.js.map": "/Movie-poster-React/static/js/runtime-main.a396c703.js.map",
+    "static/js/2.b9180b6d.chunk.js": "/Movie-poster-React/static/js/2.b9180b6d.chunk.js",
+    "static/js/2.b9180b6d.chunk.js.map": "/Movie-poster-React/static/js/2.b9180b6d.chunk.js.map",
+    "static/js/3.736c99b2.chunk.js": "/Movie-poster-React/static/js/3.736c99b2.chunk.js",
+    "static/js/3.736c99b2.chunk.js.map": "/Movie-poster-React/static/js/3.736c99b2.chunk.js.map",
+    "index.html": "/Movie-poster-React/index.html",
+    "static/css/main.86605e67.chunk.css.map": "/Movie-poster-React/static/css/main.86605e67.chunk.css.map",
+    "static/js/2.b9180b6d.chunk.js.LICENSE.txt": "/Movie-poster-React/static/js/2.b9180b6d.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.a396c703.js",
+    "static/js/2.b9180b6d.chunk.js",
+    "static/css/main.86605e67.chunk.css",
+    "static/js/main.a79f5a85.chunk.js"
+  ]
+}
