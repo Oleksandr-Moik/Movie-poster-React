@@ -1,3 +1,11 @@
+# Movie-poster-React
+React application that shows movie posters from Movies API
+
+## API Docs
+https://developers.themoviedb.org/3/discover/movie-discover
+
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
